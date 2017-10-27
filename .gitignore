@@ -3,3 +3,8 @@ gfwlistraw.txt
 gfwlist.pac
 sslocal.conf
 user-rule.txt
+conf/sslocal.conf
+conf/sslocal.conf
+conf/user-rule.txt
+pac/gfwlist.pac
+pac/gfwlistraw.txt
