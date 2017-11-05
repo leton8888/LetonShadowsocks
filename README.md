@@ -7,7 +7,7 @@
 2. ##### 安装 python版本Shadowsocks
 
    ```python
-   pip install Shadosocks
+   pip install Shadowsocks
    ```
 
    这里用到了其中sslocal功能
