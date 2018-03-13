@@ -2,8 +2,7 @@
 
 1. ##### 将本项目放在~/Documents/ 下
 
-    (代码写死了…不太会写bash脚本)
-
+   
 2. ##### 安装 python版本Shadowsocks
 
    ```pip install Shadowsocks```
