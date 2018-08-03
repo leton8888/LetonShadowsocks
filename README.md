@@ -6,6 +6,8 @@
 2. ##### 安装 python版本Shadowsocks
 
    ```pip install Shadowsocks```
+   Mac版本使用
+   ```brew install shadowsocks-libev```
 
    这里用到了其中sslocal功能
 
