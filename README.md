@@ -2,13 +2,14 @@
 
 1. ##### 将本项目放在~/Documents/ 下
 
-    (代码写死了…不太会写bash脚本)
-
+   
 2. ##### 安装 python版本Shadowsocks
 
-   ```python
-   pip install Shadosocks
-   ```
+   ```pip install Shadowsocks```
+   
+   Mac版本使用
+   
+   ```brew install shadowsocks-libev```
 
    这里用到了其中sslocal功能
 
